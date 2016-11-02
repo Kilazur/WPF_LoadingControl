@@ -25,3 +25,4 @@ Rectangles order indexing is done by [rosettacode.org's Spiral Algorithm](https:
 
 1. Add a bindable property to manage the maximum size (hard-coded 300 right now)
 2. Replace the SideLength property by Rows and Columns, allowing asymmetry (imply redoing the Spiral algorithm)
+3. More animations? (ex: Outer layer to inner layer)
