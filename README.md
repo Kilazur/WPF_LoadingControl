@@ -2,7 +2,7 @@
 
 Just a custom UserControl that displays a message and an animation, best used as a loading overlay screen.  
 All the custom properties support binding.  
-Rectangles order indexing thanks to the Spiral matrix algorithm from [rosettacode.org](https://rosettacode.org/wiki/Spiral_matrix#C.23)
+Rectangles order indexing is done by [rosettacode.org's Spiral Algorithm](https://rosettacode.org/wiki/Spiral_matrix#C.23).
 
 
 ### Exemple usage
