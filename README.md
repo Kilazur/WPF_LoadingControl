@@ -1,7 +1,9 @@
 # WPF_LoadingControl
 
-Just a custom UserControl that displays a message and an animation, best used as a loading overlay screen.
-All the custom properties support binding.
+Just a custom UserControl that displays a message and an animation, best used as a loading overlay screen.  
+All the custom properties support binding.  
+Rectangles order indexing thanks to the Spiral matrix algorithm from [rosettacode.org](https://rosettacode.org/wiki/Spiral_matrix#C.23)
+
 
 ### Exemple usage
 
@@ -22,3 +24,4 @@ All the custom properties support binding.
 #### TODOs
 
 1. Add a bindable property to manage the maximum size (hard-coded 300 right now)
+2. Replace the SideLength property by Rows and Columns, allowing asymmetry (imply redoing the Spiral algorithm)
